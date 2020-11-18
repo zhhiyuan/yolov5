@@ -1,0 +1,6 @@
+train: ./data/images/train
+valid: ./data/images/valid
+
+nc: 2
+
+names: ['person','hat']
